@@ -1,0 +1,30 @@
+# Android NDK project
+
+# Compiled object files
+*.o
+*.obj
+
+# Build files
+/build/
+*/build/
+
+# IDE files
+*.iml
+*.hprof
+*.ipr
+*.iws
+.idea/
+
+# Gradle files
+.gradle/
+
+# Other files
+*.apk
+*.ap_
+*.dex
+*.class
+*.so
+*.dll
+*.exe
+*.log
+*.jar
